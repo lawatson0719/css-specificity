@@ -1,0 +1,34 @@
+#content {
+	margin: auto;
+	width: 800px;
+}
+
+.red {
+	background-color: red;
+	height: 75px;
+	margin: 10px; 
+}
+
+.columns {
+	font-size: 0;
+}
+
+#block1 {
+	background-color: #00BDF7;
+}
+
+#block2 {
+	background-color: #00C448;
+}
+
+#block3 {
+	background-color: #F6FF00;
+}
+
+.column {
+	width: 33.333%;
+	height: 500px;
+	display: inline-block;
+}
+
+
